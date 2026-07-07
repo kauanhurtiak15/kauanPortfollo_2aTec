@@ -31,4 +31,11 @@ img{
 main{
     background-color: powderblue;
     color: rgb(0, 38, 255);
+    flex: 1;
+}
+
+section{
+    margin: 10%;
+    display: flex;
+    
 }
