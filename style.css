@@ -7,12 +7,16 @@ body{
     font-size: 16px;
     color: black;
     font-family: sans-serif;
+
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 
 header{
     background-color: deepskyblue;
     color: rgb(13, 100, 182);
-    height: 4em;
+    height: 6em;
 }
 
 header h1{
