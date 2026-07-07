@@ -1,5 +1,6 @@
 *{
-
+    margin: 0;
+    padding: 0;
 }
 
 body{
@@ -11,6 +12,7 @@ body{
 
 header{
     background-color: deepskyblue;
+    color: rgb(165, 181, 196)
     height: 4em;
 }
 
