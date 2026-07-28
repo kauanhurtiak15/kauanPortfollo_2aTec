@@ -59,3 +59,13 @@ section > div {
     flex: 1;
     margin: 2%;
 }
+
+li a {
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+
+a:hover{
+    color: yellow;
+}
