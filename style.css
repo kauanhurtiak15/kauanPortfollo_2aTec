@@ -80,3 +80,24 @@ footer {
     width: 100%;
     background-color: rgb(2, 153, 253);
 }
+
+@media (max-width: 480px) {
+    section {
+        flex-direction:column;
+        margin: 3%;
+        gap: 20px;
+    }
+}
+
+@media (min-width: 481px) and (max-width: 1024px) {
+    section{
+        margin: 3%;
+        gap: 5%;
+    }
+}
+
+@media (min-width: 1025px) {
+    section {
+        margin: 0 5%;
+    }
+}
