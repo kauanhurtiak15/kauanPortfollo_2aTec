@@ -44,10 +44,6 @@ main{
     flex: 1;
 }
 
-h2, h3{
-    padding: 10px;
-}
-
 section{
     margin: 10%;
     display: flex;
