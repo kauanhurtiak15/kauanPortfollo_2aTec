@@ -59,10 +59,3 @@ section > div {
     flex: 1;
     margin: 2%;
 }
-
-ul{
-    list-style: none;
-    gap: 20px;
-    display: flex;
-    justify-content: center;
-}
